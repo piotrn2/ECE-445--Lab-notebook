@@ -12,5 +12,15 @@ Things to think about PWM or AM to drive the speakers?
 Second Video
 https://youtu.be/9hD5FPVSsV0?si=zsehFpS31B3aUpVk
 Components to think about: PreAmp, ADC, Modulator, Amplifier, and the 40kHz Array
+- Done 2/10 P.N.
 
 Working on Proposal:
+Block Diagram:
+- Image is in the Images folder
+- Two legged system, with two transducer arrays 
+
+Initial Bandpass filter:
+- Design is in the Images folder 
+- Looking between OPA1656 and LM4562 as both are good with suppressing noise and low distortion 
+
+
