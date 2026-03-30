@@ -1,0 +1,16 @@
+Week 2/9: 
+Talked with group and TA set meeting times of Thursday at 10:30AM
+Initial Idea set, my subsystems are the filter and amplifier circuit.
+
+First bits of research:
+https://youtu.be/B8ss4KqcuXU?si=B6cCMt4DRjJF7G8a
+Youtube video notes:
+Directional Speaker- made up of the transmitters in parallel, audio amplifier, voltage regulators, microcontroller
+Speaker releases pressure, emitts audio in specific directions
+Things to think about PWM or AM to drive the speakers? 
+
+Second Video
+https://youtu.be/9hD5FPVSsV0?si=zsehFpS31B3aUpVk
+Components to think about: PreAmp, ADC, Modulator, Amplifier, and the 40kHz Array
+
+Working on Proposal:
