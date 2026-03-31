@@ -15,6 +15,7 @@ Components to think about: PreAmp, ADC, Modulator, Amplifier, and the 40kHz Arra
 - Done 2/10 P.N.
 
 Working on Proposal:
+
 Block Diagram:
 - Image is in the Images folder
 - Two legged system, with two transducer arrays 
@@ -22,5 +23,12 @@ Block Diagram:
 Initial Bandpass filter:
 - Design is in the Images folder 
 - Looking between OPA1656 and LM4562 as both are good with suppressing noise and low distortion 
+- Bandpass of 37.5-42.5 kHz
+- There would be 3 filters in the system
+
+Initial Amplifier System
+- TPA3255 amplifier is the inital choice, as it could support the 40kHz, and as a class D amplifier is good with overheating
+- The image of the TPA3255 system is in the image folder
+
 
 
